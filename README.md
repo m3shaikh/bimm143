@@ -25,8 +25,9 @@ My work for BIMM143 for UC San Diego
 
 - Class 13 [RNASeq with DESeq2](Class13.md)
 
-- Class 14 [RNA Seq Mini Project](
+- Class 14 [RNA Seq Mini Project](class14.md)
+
+- Class 17 [Analyzing sequencing data in the cloud](
 
 - Class 18 [Investigating Pertussis Resurgence Mini Project](class18.md)
 
-- Class 19 [Mini Project: Cancer Mutation Analysis](
