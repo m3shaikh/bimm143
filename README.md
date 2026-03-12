@@ -23,7 +23,7 @@ My work for BIMM143 for UC San Diego
 
 - Class 12 [Genome informatics](Class12pt2.md)
 
-- Class 13 [RNASeq with DESeq2](
+- Class 13 [RNASeq with DESeq2](Class13.md)
 
 - Class 14 [RNA Seq Mini Project](
 
