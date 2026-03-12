@@ -15,7 +15,7 @@ My work for BIMM143 for UC San Diego
 
 - Class 08 [Breast Cancer Mini Project](Class08_MiniProject.md)
 
-- Class 09 [Candy Mini Project](
+- Class 09 [Candy Mini Project](class09.md)
 
 - Class 10 [Structural Bioinformatics 1](
 
