@@ -13,7 +13,7 @@ My work for BIMM143 for UC San Diego
 
 - Class 07 [Machine Learning 1](Class07.md)
 
-- Class 08 [Breast Cancer Mini Project](
+- Class 08 [Breast Cancer Mini Project](Class08_MiniProject.md)
 
 - Class 09 [Candy Mini Project](
 
@@ -27,4 +27,6 @@ My work for BIMM143 for UC San Diego
 
 - Class 14 [RNA Seq Mini Project](
 
-- 
+- Class 18 [Investigating Pertussis Resurgence Mini Project](class18.md)
+
+- Class 19 [Mini Project: Cancer Mutation Analysis](
