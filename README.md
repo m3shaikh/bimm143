@@ -10,3 +10,5 @@ My work for BIMM143 for UC San Diego
 - Class 05 [Data Viz with ggplot](Class05.md)
 
 - Class 06 [Homework06](Homework06.md)
+
+- Class 07 [Machine Learning 1](Class07.md)
