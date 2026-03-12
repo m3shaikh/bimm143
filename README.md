@@ -19,7 +19,7 @@ My work for BIMM143 for UC San Diego
 
 - Class 10 [Structural Bioinformatics 1](
 
-- Class 11 [AlphaFold](
+- Class 11 [AlphaFold](Class11Alpha.md)
 
 - Class 12 [
 
