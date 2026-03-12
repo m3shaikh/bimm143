@@ -27,7 +27,7 @@ My work for BIMM143 for UC San Diego
 
 - Class 14 [RNA Seq Mini Project](class14.md)
 
-- Class 17 [Analyzing sequencing data in the cloud](
+- Class 17 [Analyzing sequencing data in the cloud](class17.pdf)
 
 - Class 18 [Investigating Pertussis Resurgence Mini Project](class18.md)
 
