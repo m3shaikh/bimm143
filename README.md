@@ -21,7 +21,7 @@ My work for BIMM143 for UC San Diego
 
 - Class 11 [AlphaFold](Class11Alpha.md)
 
-- Class 12 [
+- Class 12 [Genome informatics](Class12pt2.md)
 
 - Class 13 [RNASeq with DESeq2](
 
