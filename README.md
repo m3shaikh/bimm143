@@ -17,7 +17,7 @@ My work for BIMM143 for UC San Diego
 
 - Class 09 [Candy Mini Project](class09.md)
 
-- Class 10 [Structural Bioinformatics 1](
+- Class 10 [Structural Bioinformatics 1](Lab10.md)
 
 - Class 11 [AlphaFold](Class11Alpha.md)
 
